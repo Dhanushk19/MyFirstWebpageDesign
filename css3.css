@@ -1,0 +1,36 @@
+.left{
+    margin-top: 10px;
+    background-color:chartreuse ;
+    width:33%;
+    height:500px;
+    float:left;
+}
+.center{
+    margin-top: 10px;
+    background-color: aquamarine;
+    width:34%;
+    height:500px;
+    float:left;
+}
+.right{
+    margin-top: 10px;
+    background-color: chartreuse;
+    width:33%;
+    height:500px;
+    float:right;
+}
+.left img{
+    margin-top: 100px;
+}
+.right ul{
+    font-size: larger;
+    color:aliceblue;
+    
+}
+.right h3{
+    font-size: larger;
+    text-align: center;
+    margin-top:55px;
+    text-decoration:underline;
+    
+}
